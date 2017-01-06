@@ -11,7 +11,7 @@ simple_plot(raw_values, title = "Syuzhet Plot", legend_pos = "top",
 \item{raw_values}{the raw sentiment values
 calculated for each sentence}
 
-\item{title}{for image}
+\item{title}{for resulting image}
 
 \item{legend_pos}{positon for legend}
 
